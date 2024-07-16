@@ -16,7 +16,7 @@ The CSRF PoC Generator is a Python script designed to automate the creation of P
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/csrf-poc-gen.git
+    git clone https://github.com/danisnk/csrf-poc-gen.git
     cd csrf-poc-gen
     ```
 
