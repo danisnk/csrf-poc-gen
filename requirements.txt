@@ -1,0 +1,2 @@
+airium==0.2.6
+pyperclip==1.9.0
